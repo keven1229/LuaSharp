@@ -154,7 +154,7 @@ namespace LuaWrap
  
 	public static class LuaLib
 	{
-		private const string Lib = "lua5.1.dll";
+		private const string Lib = "lua5.1";
  
 		#region Core Library
  
